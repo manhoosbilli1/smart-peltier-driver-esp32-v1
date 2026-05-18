@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "date": "2026-05-18T04:13:27",
+    "generator": "KiCad 10.0.1",
+    "project": "daanmem_esp32_board_FO2DABBFD842",
+    "board_name": "daanmem_esp32_board_FO2DABBFD842"
+  },
+  "board": {
+    "has_outline": true,
+    "width": "94.0100 mm",
+    "height": "48.1000 mm",
+    "area": "4521.881 mm²",
+    "front_component_density": "48.48",
+    "back_component_density": "1.36",
+    "front_copper_area": "1103.208 mm²",
+    "back_copper_area": "512.709 mm²",
+    "min_track_clearance": "0.2266 mm",
+    "min_track_width": "0.2000 mm",
+    "min_drill_diameter": "0.2000 mm",
+    "board_thickness": "1.6000 mm",
+    "front_footprint_area": "2191.996 mm²",
+    "back_footprint_area": "61.518 mm²",
+    "front_footprint_density": "48.48",
+    "back_footprint_density": "1.36"
+  },
+  "pads": {
+    "through_hole": 20,
+    "smd": 280,
+    "connector": 0,
+    "npth": 2,
+    "castellated": 0,
+    "press_fit": 0
+  },
+  "vias": {
+    "through": 79,
+    "blind": 0,
+    "buried": 0,
+    "micro": 0
+  },
+  "components": {
+    "tht": {
+      "front": 3,
+      "back": 0,
+      "total": 3
+    },
+    "smd": {
+      "front": 50,
+      "back": 0,
+      "total": 50
+    },
+    "unspecified": {
+      "front": 33,
+      "back": 3,
+      "total": 36
+    },
+    "total": {
+      "front": 86,
+      "back": 3,
+      "total": 89
+    }
+  },
+  "drill_holes": [
+    {
+      "count": 79,
+      "shape": "Round",
+      "x_size": "0.3000 mm",
+      "y_size": "0.3000 mm",
+      "plated": true,
+      "source": "Via",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 12,
+      "shape": "Round",
+      "x_size": "0.2000 mm",
+      "y_size": "0.2000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 4,
+      "shape": "Round",
+      "x_size": "0.8000 mm",
+      "y_size": "0.8000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 4,
+      "shape": "Round",
+      "x_size": "1.3000 mm",
+      "y_size": "1.3000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 2,
+      "shape": "Round",
+      "x_size": "0.6500 mm",
+      "y_size": "0.6500 mm",
+      "plated": false,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    }
+  ]
+}
